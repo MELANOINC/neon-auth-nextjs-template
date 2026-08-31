@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@stackframe/stack": "2.7.6",
+    "@stackframe/stack": "2.8.108",
     "@neondatabase/serverless": "0.10.4",
-    "next": "15.1.6",
+    "next": "16.3.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
